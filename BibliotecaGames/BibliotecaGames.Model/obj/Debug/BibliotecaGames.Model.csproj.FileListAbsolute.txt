@@ -1,0 +1,8 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.Model\obj\Debug\BibliotecaGames.Model.Properties.Resources.resources
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.Model\obj\Debug\BibliotecaGames.Model.csproj.GenerateResource.Cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.Model\bin\Debug\BibliotecaGames.Model.dll.config
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.Model\bin\Debug\BibliotecaGames.Model.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.Model\bin\Debug\BibliotecaGames.Model.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.Model\obj\Debug\BibliotecaGames.Model.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.Model\obj\Debug\BibliotecaGames.Model.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.Model\obj\Debug\BibliotecaGames.Model.csprojResolveAssemblyReference.cache

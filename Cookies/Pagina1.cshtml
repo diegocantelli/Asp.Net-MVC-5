@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        @{
+            int valor1 = 100;
+            string lingua = "portugues";
+
+            Response.Cookies["cookie1"]["valor1"] = valor1.ToString();
+            Response.Cookies["cookie1"]["valor"] = lingua;
+
+            <a href="~/Pagina2.cshtml">Link para a página 2</a>
+        }
+    </body>
+</html>

@@ -1,0 +1,19 @@
+﻿@{
+
+}
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    @{ 
+        List<string> valores = UrlData.ToList<string>();
+
+        foreach(string v in valores)
+        {
+            <p>@v</p>
+        }
+    }
+</body>
+</html>

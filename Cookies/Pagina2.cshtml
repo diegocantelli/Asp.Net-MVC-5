@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+       @{ 
+           int valor = int.Parse(Request.Cookies["cookie1"]["valor1"]);
+           string idioma = Request.Cookies["cookie1"]["valor"];
+
+           <p>@valor</p>
+           <p>@idioma</p>
+       } 
+    </body>
+</html>

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<DemoCrud.Models.Livro>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>  
+    <a class="btn btn-success"  href="@Url.Action("Create")">
+        <span class="glyphicon glyphicon-plus"></span> Novo Livro
+    </a>
+</p>
+
+
+<table id="gridDados">
+    <thead>
+        <tr>
+            <th data-id-column="Titulo">Título</th>
+            <th data-id-column="Autor">Autor</th>
+            <th data-id-column="AnoEdicao">Ano da edição</th>
+            <th data-id-column="Valor" >Valor</th>
+        </tr>
+    </thead>
+</table>
+    @section scripts
+
+    {
+        <script src="~/Scripts/jquery-1.11.1.js"></script>
+        <script src="~/Scripts/jquery.bootgrid.js"></script>
+        <script type="text/javascript">
+            $(document).ready(configuraControles);
+
+            function configuraControles() {
+                $("#gridDados").bootgrid(
+                    {
+                        ajax: true,
+                        url: "@Url.Action("Listar")"
+
+                    });
+            }
+
+    </script>
+    }
+

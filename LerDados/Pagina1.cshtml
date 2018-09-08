@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h1>Lendo dados de um arquivo texto</h1>    
+        @{ 
+            String txt_path = Server.MapPath("~/App_Data/dados.txt");
+            string[] dados = File.ReadAllLines(txt_path);
+
+            foreach(string linha in dados)
+            {
+                <p>@linha</p>
+            }
+        }
+    </body>
+</html>

@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h1>Pagina 2</h1>
+        @{ 
+            string nome = AppState["nome"].ToString();
+            string sobr = AppState["apelido"].ToString();
+
+            <p>@nome</p>
+            <p>@sobr</p>
+
+        }    
+    </body>
+</html>

@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formulários</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <form action="~/pagina3.cshtml" method="post">
+            <p>Qual a capital do Brasil</p><br />
+            <input type="radio" name="q_2" value="Paris" />Paris<br />
+            <input type="radio" name="q_2" value="Brasília" />Brasília<br />
+            <input type="radio" name="q_2" value="Lisboa" />Lisboa<br />
+            <input type="submit" value="Avançar" />
+
+            @Html.Hidden("q_1", Request["q_1"]);
+        </form>
+    </body>
+</html>

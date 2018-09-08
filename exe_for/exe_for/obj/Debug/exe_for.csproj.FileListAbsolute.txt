@@ -1,0 +1,6 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_for\exe_for\bin\Debug\exe_for.exe.config
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_for\exe_for\bin\Debug\exe_for.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_for\exe_for\bin\Debug\exe_for.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_for\exe_for\obj\Debug\exe_for.csprojResolveAssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_for\exe_for\obj\Debug\exe_for.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_for\exe_for\obj\Debug\exe_for.pdb

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        @{
+            string q1 = Request["q_1"];
+            string q2 = Request["q_2"];
+            string resp1, resp2;
+
+            if (q1.Equals("Lisboa"))
+            {
+                resp1 = "Resposta correta";
+            }
+            else
+            {
+                resp1 = "Resposta errada";
+            }
+            <p>Pergunta 1: @q1, @resp1</p>
+
+            if (q2.Equals("Brasília"))
+            {
+                resp2 = "Resposta correta";
+            }
+            else
+            {
+                resp2 = "Resposta errada";
+            }
+
+            <p>Pergunta 2: @q2, @resp2</p>
+
+        }
+        
+    </body>
+</html>

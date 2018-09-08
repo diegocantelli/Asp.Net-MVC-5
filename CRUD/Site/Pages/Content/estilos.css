@@ -1,0 +1,29 @@
+﻿.login{
+    width: 200px;
+    margin:auto;
+
+}
+
+.espacamento{
+    margin-top: 10px;
+}
+
+fieldset{
+    margin-top: 20px;
+    border: 2px solid black;
+    width:300px;
+    padding:10px;
+}
+
+#form-dados-pessoais{
+    width: 300px;
+}
+
+.botao{
+    width: 200px;
+    margin-top: 20px;
+}
+
+.container, body, html{
+    height:100%;
+}

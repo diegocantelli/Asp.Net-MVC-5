@@ -1,0 +1,8 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\CRUD\DAL\bin\Debug\DAL.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\CRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\CRUD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\CRUD\DAL\obj\Debug\DAL.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\CRUD\DAL\obj\Debug\DAL.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\CRUD\DAL\bin\Debug\MySql.Data.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\CRUD\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\CRUD\DAL\bin\Debug\MySql.Data.xml

@@ -1,0 +1,12 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.BLL.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.BLL.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.csprojResolveAssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.DAL.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.Model.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.DAL.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.Model.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\MySql.Data.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\MySql.Data.xml

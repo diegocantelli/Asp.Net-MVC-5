@@ -1,0 +1,6 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_matrizes\exe_matrizes\bin\Debug\exe_matrizes.exe.config
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_matrizes\exe_matrizes\bin\Debug\exe_matrizes.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_matrizes\exe_matrizes\bin\Debug\exe_matrizes.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_matrizes\exe_matrizes\obj\Debug\exe_matrizes.csprojResolveAssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_matrizes\exe_matrizes\obj\Debug\exe_matrizes.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\exe_matrizes\exe_matrizes\obj\Debug\exe_matrizes.pdb

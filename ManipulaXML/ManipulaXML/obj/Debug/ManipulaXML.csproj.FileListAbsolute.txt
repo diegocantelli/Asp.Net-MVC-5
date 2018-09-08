@@ -1,0 +1,9 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\bin\Debug\ManipulaXML.exe.config
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\bin\Debug\ManipulaXML.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\bin\Debug\ManipulaXML.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\obj\Debug\ManipulaXML.csprojResolveAssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\obj\Debug\ManipulaXML.Form1.resources
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\obj\Debug\ManipulaXML.Properties.Resources.resources
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\obj\Debug\ManipulaXML.csproj.GenerateResource.Cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\obj\Debug\ManipulaXML.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Asp.NET\ManipulaXML\ManipulaXML\obj\Debug\ManipulaXML.pdb

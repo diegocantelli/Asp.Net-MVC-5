@@ -1,0 +1,17 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    @{ 
+        List<string> lista =(List<string>)Session["Lista"];
+
+        foreach(string nome in lista)
+        {
+            <p>@nome</p>
+        }
+    }
+</body>
+</html>
